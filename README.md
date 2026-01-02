@@ -1,6 +1,9 @@
 ## Hi there, I'm Kyp👋
-About Me
-I am an aspiring Cybersecurity Professional working on obtaing my Bachelor's in Integrated Information Technology at the University of South Carolina.
+***
+## About Me
+I am an aspiring Cybersecurity Professional working on obtaing my Bachelor's in Integrated Information Technology at the University of South Carolina. I want to pursue a challenging a yet rewarding field and what better way than to protect data in a world where everyone's information is online.
+
+
 <!--
 **kypschoon/kypschoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
